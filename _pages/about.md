@@ -47,4 +47,3 @@ This is the personal homepage of Jun Luo, who received his bachelor's degree fro
 3. 2019420 Congratulations! I won the National Excellence Award of the 13th National Zhou Peiyuan College Student Mechanics Competition!
 4. There have been 3 national scholarships, 8 other scholarships, and more than 30 other competitions and honors.
 
-
