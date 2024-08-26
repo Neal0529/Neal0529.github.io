@@ -42,8 +42,8 @@ This is the personal homepage of Jun Luo, who received his bachelor's degree fro
 
 2018-2022
 ======
-1. **2021/7/20** Congratulations! Our team (master) won the special prize of the 15th China Siemens Intelligence Challenge!
+1. **2019/4/20** Congratulations! I won the National Excellence Award of the 13th National Zhou Peiyuan College Student Mechanics Competition!
 2. **2019/12/20** Congratulations! I won the third prize in the 11th National Mathematics Competition for College students!
-3. **2019/4/20** Congratulations! I won the National Excellence Award of the 13th National Zhou Peiyuan College Student Mechanics Competition!
+3. **2021/7/20** Congratulations! Our team (master) won the special prize of the 15th China Siemens Intelligence Challenge!
 4. There have been 3 national scholarships, 8 other scholarships, and more than 30 other competitions and honors.
 
