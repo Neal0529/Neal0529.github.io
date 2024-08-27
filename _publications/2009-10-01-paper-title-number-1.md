@@ -6,5 +6,5 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-10-04
 venue: 'IEEE Sensors Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/10227894'
-citation: 'H. Pu, J. Luo, G. Wang, T. Huang, H. Liu and J. Luo, "Visual SLAM Integration With Semantic Segmentation and Deep Learning: A Review," in IEEE Sensors Journal, vol. 23, no. 19, pp. 22119-22138, 1 Oct.1, 2023, doi: 10.1109/JSEN.2023.3306371.'
+citation: 'Pu H, Luo J, Wang G, et al. Visual SLAM integration with semantic segmentation and deep learning: A review[J]. IEEE Sensors Journal, 2023.'
 ---
