@@ -9,6 +9,10 @@ redirect_from:
 
 This is the personal homepage of Jun Luo, who received his bachelor's degree from [Yanshan University](httpsmec.ysu.edu.cnindex.htm) in 2022 and is recommended for admission to [Chongqing University](httpwww.cme.cqu.edu.cn) for his master's degree. His research interests are visual semantic SLAM and visual inertial SLAM. He was supervised by Professor [Huayan Pu](httpsfaculty.cqu.edu.cnHuayanPuzh_CNindex.htm) and Researcher [Gang Wang](httpsslmt.cqu.edu.cninfo1071088707.htm).**<font color='red'> He is looking for the 2025 fall PhD!! </font>** Welcome interested teachers send an email to contact!
 
+Important News!
+======
+1. **<font color='red'> Congrats!I won **the National Scholarship for graduate students** in 2022-2023(httpsxgb.cqu.edu.cninfo10112870.htm)! Thank the school for the honor! </font>**
+
 2024-present
 ======
 1. **2024/1/30**  Congratulations! Tao Huang and I collaborated on "[A Framework for Real-time Generation of Multi-directional Traversability Maps in Unstructured Environments](httpsieeexplore.ieee.orgdocument10610312)" has been accepted by *The 2024 IEEE International Conference on Robotics and Automation (ICRA 2024)*! The paper could be presented at the conference! This work focuses on the problem of robot passability in the environment.
