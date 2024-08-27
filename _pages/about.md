@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal homepage of Jun Luo, who received his bachelor's degree from [Yanshan University](httpsmec.ysu.edu.cnindex.htm) in 2022 and is recommended for admission to [Chongqing University](httpwww.cme.cqu.edu.cn) for his master's degree. His research interests are visual semantic SLAM and visual inertial SLAM. He was supervised by Professor [Huayan Pu](httpsfaculty.cqu.edu.cnHuayanPuzh_CNindex.htm) and Researcher [Gang Wang](httpsslmt.cqu.edu.cninfo1071088707.htm). He is looking for the 2025 fall PhD!! Welcome interested teachers send an email to contact!
+This is the personal homepage of Jun Luo, who received his bachelor's degree from [Yanshan University](httpsmec.ysu.edu.cnindex.htm) in 2022 and is recommended for admission to [Chongqing University](httpwww.cme.cqu.edu.cn) for his master's degree. His research interests are visual semantic SLAM and visual inertial SLAM. He was supervised by Professor [Huayan Pu](httpsfaculty.cqu.edu.cnHuayanPuzh_CNindex.htm) and Researcher [Gang Wang](httpsslmt.cqu.edu.cninfo1071088707.htm). 　<font color='red'> **He is looking for the 2025 fall PhD!!** </font>  Welcome interested teachers send an email to contact!
 
 2024-present
 ======
