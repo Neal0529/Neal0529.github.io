@@ -11,7 +11,7 @@ This is the personal homepage of Jun Luo, who received his bachelor's degree fro
 
 Important News!
 ======
-1. Congrats!I won **<font color='red'> the National Scholarship for graduate students </font>**in 2022-2023 (https://xgb.cqu.edu.cninfo10112870.htm)! Thank the school for the honor!
+1. Congrats!I won **<font color='red'> the National Scholarship for graduate students </font>**in 2022-2023 (https://xgb.cqu.edu.cn/info/1011/2870.htm)! Thank the school for the honor!
 
 2024-present
 ======
@@ -32,8 +32,8 @@ Important News!
 7. **2023/10/4**  Congratulations! My paper "[Visual SLAM Integration With Semantic Segmentation and Deep Learning A Review](https://ieeexplore.ieee.org/document/10227894/)" has been accepted by *IEEE Sensors Journal*!. The work focuses on visual SLAM's frontier research.
 8. **2024/10/10** Congrats!I won **Class A scholarship of Chongqing University** in 2022-2023! Thank the school for the honor!
 9. **2024/10/13** Congratulations! My invention patent "A terrain semantic map construction method, system, and product based on the stereo camera" has been successfully published!
-10. **2023/10/20** Congrats!I was awarded as the advanced Individual of students striving for Excellence in 2022-2023(https://xgb.cqu.edu.cninfo10242853.htm)! Thank the school for the honor!
-11. **2023/10/26** Congrats!I won **the National Scholarship for graduate students** in 2022-2023(https://xgb.cqu.edu.cninfo10112870.htm)! Thank the school for the honor!
+10. **2023/10/20** Congrats!I was awarded as the advanced Individual of students striving for Excellence in 2022-2023! Thank the school for the honor!
+11. **2023/10/26** Congrats!I won **the National Scholarship for graduate students** in 2022-2023(https://xgb.cqu.edu.cn/info/1011/2870.htm)! Thank the school for the honor!
 12. **2023/10/27** Congratulations! My paper "[Strip running deviation monitoring and feedback real-time in smart factories based on improved YOLOv5](https://www.sciencedirect.com/science/article/pii/S2210537923000781)" has been accepted by *Sustainable Computing Informatics and Systems*!. The work focuses on the strip in the process of running off the problem.
 13. **2023/11/25** I attended Autonomous Robotic Technology Seminar.
 14. **2023/12/15** I went to Singapore to visit NTU and NUS for exchange study.
