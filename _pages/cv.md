@@ -22,4 +22,4 @@ Publications
   
 More info
 ======
-Please see my pdf version of [CV](https://github.com/Neal0529/Neal0529.github.io/blob/c4299fa434efad04da10e86c48884b7e03d50965/_pages/CV-Jun-Luo.pdf)
+Please see my pdf version of [CV](https://drive.google.com/file/d/1loO3WNuJoL--2Z198CZjvkReylf_NN2s/view?usp=sharing)
