@@ -20,11 +20,12 @@ Important News!
 1. **2024/1/30**  Congratulations! Tao Huang and I collaborated on "[A Framework for Real-time Generation of Multi-directional Traversability Maps in Unstructured Environments](https://ieeexplore.ieee.org/abstract/document/10610312)" has been accepted by *The 2024 IEEE International Conference on Robotics and Automation (ICRA 2024)*! The paper could be presented at the conference! This work focuses on the problem of robot passability in the environment.
 2. **2024/4/27**  Congratulations! Tao Huang and I collaborated on "[MD-TLCF Miner Distance Detection Based on Trajectory-Based Low-Confidence Filter](https://ieeexplore.ieee.org/document/10553319)" has been accepted by the *IEEE Transactions on Instrumentation and Measurement*! The work focuses on the detection of miners in work scenarios and corresponding physical distances.
 3. **2024/6/15**  Congratulations! I was invited by Xi 'an Jiaotong University to give a keynote report at the "[The Sixth Western Universities Mechanical Students Forum](https://sn.ifeng.com/c/8aU9839688r)", the theme of which was "Perception and Exploration based on outdoor non-structural scenes". Thank you Xi 'an Jiaotong University for your invitation!
-4. **2024/6/30**  Congratulations! My research "BE-SLAM BEV-Enhanced Dynamic Semantic SLAM with Static Object Reconstruction" has been accepted by *The 2024 IEEERSJ International Conference on Technology Intelligent Robots and Systems (IROS 2024)*! This paper will be presented in ABU Dhabi in October this year! The work focuses on the fusion of Visual SLAM and BEV.
+4. **2024/6/30**  Congratulations! My research "BE-SLAM_BEV-Enhanced Dynamic Semantic SLAM with Static Object Reconstruction" has been accepted by *The 2024 IEEERSJ International Conference on Technology Intelligent Robots and Systems (IROS 2024)*! This paper will be presented in ABU Dhabi in October this year! The work focuses on the fusion of Visual SLAM and BEV.
 5. **2024/8/23**  Congratulations! My invention patent "The invention relates to a method, system, and product of constructing terrain semantic map based on stereo camera" has been successfully granted!
-6. **2024/10/10**  Congratulations! I won Class A scholarship of Chongqing University in 2023-2024! Thank the school for the honor!
-7. **2024/10/14**  Congratulations! My invention patent "A method for autonomous robot navigation in harsh outdoor environments" has been successfully granted!
-8. **2024/10/15**  Congratulations! My research "Visual inertial SLAM based on spatiotemporal consistency optimization in diverse environments" has been accepted by *Journal of Field Robotics(JFR)*!
+6. **2024/10/8**  Congratulations! I won **Outstanding Postgraduate of Chongqing University** in the whole master's career! Thank the school for the honor!
+7. **2024/10/10**  Congratulations! I won **Class A scholarship of Chongqing University** in 2023-2024! Thank the school for the honor!
+8. **2024/10/14**  Congratulations! My invention patent "A method for autonomous robot navigation in harsh outdoor environments" has been successfully granted!
+9. **2024/10/15**  Congratulations! My research "Visual inertial SLAM based on spatiotemporal consistency optimization in diverse environments" has been accepted by *Journal of Field Robotics(JFR)*!
 
 2023-2024
 ======
