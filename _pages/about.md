@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal homepage of Jun Luo, who received his bachelor's degree from [Yanshan University](https://mec.ysu.edu.cn/index.htm) in 2022 and is recommended for admission to [Chongqing University](http://www.cme.cqu.edu.cn/) for his master's degree. His research interests are visual semantic SLAM and visual inertial SLAM. He was supervised by Professor [Huayan Pu](https://faculty.cqu.edu.cn/HuayanPu/zh_CN/index.htm) and Researcher [Gang Wang](https://slmt.cqu.edu.cn/info/10710/88707.htm).**<font color='red'> He is looking for the 2025 fall PhD!! </font>** Welcome interested teachers send an email to contact!
+This is the personal homepage of Jun Luo, who received his bachelor's degree from [Yanshan University](https://mec.ysu.edu.cn/index.htm) in 2022 and is recommended for admission to [Chongqing University](http://www.cme.cqu.edu.cn/) for his master's degree. His research interests are visual semantic SLAM and visual inertial SLAM. He was supervised by Professor [Huayan Pu](https://faculty.cqu.edu.cn/HuayanPu/zh_CN/index.htm) and Researcher [Gang Wang](https://slmt.cqu.edu.cn/info/10710/88707.htm).**<font color='red'> He is looking for the 2025 fall PhD!! </font>** Please feel free to contact by sending an email!
 
 Important News!
 ======
@@ -22,8 +22,9 @@ Important News!
 3. **2024/6/15**  Congratulations! I was invited by Xi 'an Jiaotong University to give a keynote report at the "[The Sixth Western Universities Mechanical Students Forum](https://sn.ifeng.com/c/8aU9839688r)", the theme of which was "Perception and Exploration based on outdoor non-structural scenes". Thank you Xi 'an Jiaotong University for your invitation!
 4. **2024/6/30**  Congratulations! My research "BE-SLAM BEV-Enhanced Dynamic Semantic SLAM with Static Object Reconstruction" has been accepted by *The 2024 IEEERSJ International Conference on Technology Intelligent Robots and Systems (IROS 2024)*! This paper will be presented in ABU Dhabi in October this year! The work focuses on the fusion of Visual SLAM and BEV.
 5. **2024/8/23**  Congratulations! My invention patent "The invention relates to a method, system, and product of constructing terrain semantic map based on stereo camera" has been successfully granted!
-6. **2024/10/14**  Congratulations! My invention patent "A method for autonomous robot navigation in harsh outdoor environments" has been successfully granted!
-7. **2024/10/15**  Congratulations! My research "Visual inertial SLAM based on spatiotemporal consistency optimization in diverse environments" has been accepted by *Journal of Field Robotics(JFR)*!
+6. **2024/10/10**  Congratulations! I won Class A scholarship of Chongqing University in 2023-2024! Thank the school for the honor!
+7. **2024/10/14**  Congratulations! My invention patent "A method for autonomous robot navigation in harsh outdoor environments" has been successfully granted!
+8. **2024/10/15**  Congratulations! My research "Visual inertial SLAM based on spatiotemporal consistency optimization in diverse environments" has been accepted by *Journal of Field Robotics(JFR)*!
 
 2023-2024
 ======
