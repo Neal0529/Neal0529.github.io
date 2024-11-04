@@ -22,4 +22,4 @@ Publications
   
 More info
 ======
-Please see my pdf version of [CV](https://drive.google.com/file/d/1loO3WNuJoL--2Z198CZjvkReylf_NN2s/view?usp=sharing)
+Please see my pdf version of [CV](https://drive.google.com/file/d/1dn--LHo7Ciqs7BKUa36IGvkoZmnVQj6Y/view?usp=sharing)
