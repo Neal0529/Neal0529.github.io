@@ -13,6 +13,7 @@ Important News!
 ======
 1. Congrats!I won **<font color='red'> the National Scholarship for graduate students </font>**in 2022-2023 (https://xgb.cqu.edu.cn/info/1011/2870.htm)! Thank the school for the honor!
 2. Congrats! My research "Visual inertial SLAM based on spatiotemporal consistency optimization in diverse environments" has been accepted by **<font color='red'> Journal of Field Robotics(JFR)</font>**! This work focuses on spatiotemporal consistency optimization.
+3. Congrats!I won **<font color='red'> the National Scholarship for graduate students </font>**in 2023-2024! Thank the school for the honor!
 
 
 2024-present
@@ -25,7 +26,8 @@ Important News!
 6. **2024/10/8**  Congratulations! I won **Outstanding Postgraduate of Chongqing University** in the whole master's career! Thank the school for the honor!
 7. **2024/10/10**  Congratulations! I won **Class A scholarship of Chongqing University** in 2023-2024! Thank the school for the honor!
 8. **2024/10/14**  Congratulations! My invention patent "A method for autonomous robot navigation in harsh outdoor environments" has been successfully granted!
-9. **2024/10/15**  Congratulations! My research "Visual inertial SLAM based on spatiotemporal consistency optimization in diverse environments" has been accepted by *Journal of Field Robotics(JFR)*! This work focuses on spatiotemporal consistency optimization.
+9. **2024/11/3**  Congratulations! My research "Visual inertial SLAM based on spatiotemporal consistency optimization in diverse environments" has been accepted by *Journal of Field Robotics(JFR)*! This work focuses on spatiotemporal consistency optimization.
+10. **2024/11/3**  Congratulations! I won **the National Scholarship for graduate students** in 2023-2024! Thank the school for the honor!
 
 2023-2024
 ======
